@@ -1,0 +1,26 @@
+body {
+    background-color: #f0ead6;
+}
+
+h1,h2,h3, p ,.recipie-list {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+
+h1 {
+    font-size: larger;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: large;
+    font-style: italic;
+}
+
+h3 {
+    font-size: medium;
+}
+
+.steps-list {
+    font-family: monospace;
+}
