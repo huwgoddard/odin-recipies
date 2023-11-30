@@ -25,17 +25,18 @@ h3 {
     font-family: monospace;
 }
 
-.index-title {
+.title {
     background-color: blanchedalmond;
     color: palevioletred;
-    text-align: center;
-    padding: 15px;
+    text-align: left;
+    padding: 15px 7.5%;
 }
 
-.recipe-list {
+.list {
     background-color: blanchedalmond;
     color: palevioletred;
-    padding: 15px 15px;
+    padding: 15px 7.5%;
+    list-style-position: inside;
 }
 
 .recipe-list li {
